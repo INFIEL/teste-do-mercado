@@ -1,11 +1,36 @@
 body{
-  background-color: #FOFOFO;
-  }
-
-section{
-  font-family: sans-serif, Tahoma,Verdana;
+  padding: 0;
+  margin:0;
   }
   
-article{
-  float:left;
-  }
+form{
+  font-family:Verdana,Tahoma,sans-serif;
+  font-size:15px;
+  background-color:#F0F0F0;
+  max-width:500px; 
+}
+
+h1{
+  margin-bottom:20px;
+  margin-left:20px;
+  color: #66FFFF;
+  text-shadow: 5px 5px 5px black;
+}
+
+form label{
+  margin-left:20px;
+  color:#FFFFFF;
+  font-weight: bold;
+}
+
+.submit input {
+  background-color:#00CC99;
+  height: 40px;
+  width: 140px;
+  font-weight: bold;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border: 1px solid;
+  color: black;
+}
