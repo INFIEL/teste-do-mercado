@@ -5,20 +5,20 @@ body{
   
 form{
   font-family:Verdana,Tahoma,sans-serif;
-  font-size:15px;
+  font-size:20px;
   background-color:#F0F0F0;
-  max-width:500px; 
+  max-width:900px; 
 }
 
 h1{
-  margin-bottom:20px;
-  margin-left:20px;
+  margin-bottom:15px;
+  margin-left:15px;
   color: #66FFFF;
   text-shadow: 5px 5px 5px black;
 }
 
 form label{
-  margin-left:20px;
+  margin-left:5px;
   color:#FFFFFF;
   font-weight: bold;
 }
